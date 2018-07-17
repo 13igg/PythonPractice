@@ -11,9 +11,13 @@ basics of Python
 * etc
 
 # WordCount
-App to count appearences of a word in a given text input. 
+App to count appearences of a word in a given text input. Multiple pages, python + html
+
+# Portfolio
+App to showoff myself. Bootstrap styling, multiple pages, etc. 
 
 # Common commands to know
+* pip install virtualenv
 * django-admin startproject ProjectName
 * python manage.py help
 ** python manage.py runserver

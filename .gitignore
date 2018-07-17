@@ -53,6 +53,11 @@ coverage.xml
 
 # Django stuff:
 *.log
+*.pot
+*.pyc
+__pycache__/
+/media
+/static
 local_settings.py
 db.sqlite3
 
@@ -87,6 +92,7 @@ celerybeat-schedule
 env/
 venv/
 ENV/
+myvenv/
 env.bak/
 venv.bak/
 
