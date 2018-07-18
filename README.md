@@ -15,6 +15,7 @@ App to count appearences of a word in a given text input. Multiple pages, python
 
 # Portfolio
 App to showoff myself. Bootstrap styling, multiple pages/multple apps, postgres database, etc. 
+-- virtual environments -- how apps work -- add models view to an app -- work with Media files, static files, urls, etc
 
 # Common commands to know
 * pip install virtualenv
@@ -38,6 +39,11 @@ App to showoff myself. Bootstrap styling, multiple pages/multple apps, postgres 
     * Create a migration
     * Migrate
     * Add to the admin page 
+
+* Cool things!::
+    * Add these lines in your model to show pretty text in the Django admin page!
+        * def __str__(self):
+        * return self.title
 
 
 # Things to do before committing
